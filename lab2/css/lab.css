@@ -1,5 +1,5 @@
 h1{
-  color: orange;
+  color: #fc8eac;
   font-size: 200%;
 }
 
@@ -10,11 +10,11 @@ p{
 }
 
 #content{
-  background-color: #cccccc;
+  background-color: #b22222;
   width: 500px;
   min-height: 300px;
   padding: 10px;
   margin: 10px;
-  border: solid 1px #444444;
+  border: solid 1px #abd98c;
   font-size: 20px
 }

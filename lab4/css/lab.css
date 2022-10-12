@@ -1,0 +1,38 @@
+#task1{
+  background-color: #789E37;
+  width: 500px;
+  min-height: 300px;
+  padding: 10px;
+  margin: 10px;
+  border: solid 5px #abd98c;
+  font-size: 20px
+}
+
+#task2{
+  background-color: #D5FF8C;
+  width: 500px;
+  min-height: 300px;
+  padding: 10px;
+  margin: 10px;
+  border: solid 5px #abd98c;
+  font-size: 20px
+}
+
+#task34{
+  background-color: #BBEB6A;
+  width: 500px;
+  min-height: 300px;
+  padding: 10px;
+  margin: 10px;
+  border: solid 5px #abd98c;
+  font-size: 20px
+}
+
+h1{
+  color: #84289E;
+  font-size: 200%;
+}
+ol{
+  color: #CE6AEB;
+  font-size: 200%;
+}

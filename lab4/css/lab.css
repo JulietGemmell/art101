@@ -20,7 +20,7 @@
 
 #task34{
   background-color: #BBEB6A;
-  width: 500px;
+  width: 1500px;
   min-height: 300px;
   padding: 10px;
   margin: 10px;
@@ -33,6 +33,6 @@ h1{
   font-size: 200%;
 }
 ol{
-  color: #CE6AEB;
-  font-size: 200%;
+  color: #9E3761;
+  font-size: 100%;
 }

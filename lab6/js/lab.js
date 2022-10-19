@@ -18,4 +18,7 @@
    }
  }
 
- 
+ //Print Script
+ document.writeln("The Kinds of Transportation I use: ", myTansportation, "</br>");
+ document.writeln("My main Transportation: <pre>",
+JSON.stringify(myMainRide, null, '\t'), "</pre>");

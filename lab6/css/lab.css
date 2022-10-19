@@ -1,0 +1,24 @@
+h1{
+  color: #592115;
+}
+
+h2{
+  color: #F25C05;
+}
+
+h3{
+  color: #F29F05;
+}
+
+#output{
+  background-color: #D9969B;
+
+}
+#content{
+  background-color: #F2C879;
+  min-height: 300px;
+  padding: 10px;
+  margin: 10px;
+  border: solid 5px #F2B705;
+  font-size: 20px
+}

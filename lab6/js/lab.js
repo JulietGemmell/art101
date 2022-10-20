@@ -15,5 +15,5 @@
    }
   }
   space = {};
-  document.writeln("Getting around: ", myTransportation);
+  document.writeln("Getting around: ", myTransportation,"</br>");
   document.writeln("My Main Ride: <pre>", JSON.stringify(myMainRide, null, '\t'), "</pre>");

@@ -19,5 +19,5 @@
 space = {}
 
  //Print Script
- document.writeln("Getting around: " myTransport);
+ document.writeln("Getting around: " myTransportation);
  document.writeln("My Main Ride: <pre>", JSON.stringify(myMainRide, null, '\t'), "</pre>");

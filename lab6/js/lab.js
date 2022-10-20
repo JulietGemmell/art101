@@ -1,6 +1,6 @@
 /**
- * Author:    Juliet Gemmell
- * Created:   10.19.2022
+ * Author: Juliet Gemmell
+ * Created: 10.19.2022
  * License: Public Domian
  **/
 

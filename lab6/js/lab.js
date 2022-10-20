@@ -5,7 +5,7 @@
  **/
 
 //Transportation Variables
- myTansportation = [ "car", "bus", "feet" ];
+ myTansportatio = [ "car", "bus", "feet" ];
 
  myMainRide = {
    make: "Ford",

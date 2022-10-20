@@ -13,7 +13,7 @@
    model: "Hybrid Escape",
    color: "Light Green",
    year: 2008,
-   age: Function(){
+   age: function(){
      return 2022 - year;
    }
  }

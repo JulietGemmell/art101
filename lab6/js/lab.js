@@ -1,7 +1,6 @@
 /**
  * Author:    Juliet Gemmell
  * Created:   10.19.2022
- *
  * License: Public Domian
  **/
 
@@ -17,6 +16,7 @@
      return 2022 - year;
    }
  }
+sapce = {}
 
  //Print Script
  document.writeln("Getting around: " myTransport);

@@ -16,7 +16,7 @@
      return 2022 - year;
    }
  }
-space = {}
+space = {};
 
  //Print Script
  document.writeln("Getting around: " myTransportation);

@@ -15,3 +15,6 @@
 
    return nameSorted;
  }
+
+//Print Script
+document.writeln("I fixed your name: ", sortUserName(),"</br>");

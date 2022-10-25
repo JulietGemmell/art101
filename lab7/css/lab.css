@@ -1,0 +1,23 @@
+h1{
+  color: #592115;
+}
+
+h2{
+  color: #F25C05;
+}
+
+h3{
+  color: #F29F05;
+}
+
+p{
+  color: #592115;
+}
+
+body{
+  background-color: #F2C879;
+  padding: 10px;
+  margin: 10px;
+  border: solid 5px #F2B705;
+  font-size: 20px
+}

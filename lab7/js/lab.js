@@ -9,12 +9,20 @@
    var userName = window.prompt("Please tell me your name");
    console.log("userName =", userName);
 
-   //FIrst makes lower case then splits and sorts the array, then joins together
-   var nameSorted = userName.toLower().split("").sort().join("");
+//Array being split
+   var nameArray = userName.split('');
+   console.log("nameArray =", nameArray);
+
+//Array being sorted
+   var nameArraySort = nameArray.sort();
+   console.log("nameArraySort =", nameArraySort);
+
+//Array being put together
+   var nameSorted = nameArraySort.join('');
    console.log("nameSorted =", nameSorted);
 
    return nameSorted;
  }
 
 //Print Script
-document.writeln("I fixed your name: ", sortUserName(),"</br>");
+document.writeln("I fixed your name: ", sortUserName(), "</br>");

@@ -1,17 +1,25 @@
 h1{
   color: #592115;
+  font-style: bold;
+  font-family: courier;
 }
 
 h2{
   color: #F25C05;
+  font-style: bold;
+  font-family: courier;
 }
 
 h3{
-  color: #F29F05;
+  color: #592115;
+  font-style: bold;
+  font-family: courier;
 }
 
 p{
   color: #592115;
+  font-style: normal;
+  font-family: courier;
 }
 
 body{

@@ -1,5 +1,18 @@
 #Output{
-  width: 400px;
-  height: 200px;
+  width: 450px;
+  height: 350px;
   background-color: orange;
+  padding: 10px;
+  padding-left: 20px;
+}
+body{
+  background-color: #2a2e70;
+}
+
+p, h1, h2, h3{
+  color: #ffffff;
+}
+
+h3{
+  font-size: 40px;
 }

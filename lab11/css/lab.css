@@ -1,0 +1,21 @@
+#challenge{
+  background-color: lightgray;
+}
+
+#problems{
+  background-color: purple;
+}
+
+#results{
+  background-color: blue;
+}
+
+.special{
+background-color: red;
+}
+.specialer{
+  background-color: orange;
+}
+.specialler{
+  background-color: green;
+}

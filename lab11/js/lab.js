@@ -11,11 +11,11 @@ $('#results').append('<button id=buttonResEL> CLICK HERE! </button>');
 
 
 $('#buttonChalEL').click(function(){
-   $('#challenge').toggleClass('specialler');
+   $('#challenge').toggleClass('special');
 });
 
 $('#buttonProbEL').click(function(){
-  $('#problems').toggleClass('specialler');
+  $('#problems').toggleClass('specialer');
 });
 
 $('#buttonResEL').click(function(){

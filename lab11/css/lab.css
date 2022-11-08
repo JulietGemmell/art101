@@ -1,14 +1,15 @@
-#challenge{
-  background-color: lightgray;
+body{
+  background-color: #2a2e70;
 }
 
-#problems{
-  background-color: purple;
+p, h1, h2, h3{
+  color: #ffffff;
 }
 
-#results{
-  background-color: blue;
+h3{
+  font-size: 40px;
 }
+
 
 .special{
 background-color: red;

@@ -1,9 +1,8 @@
 #Output{
-  width: 450px;
+  width: 350px;
   height: 350px;
   background-color: orange;
   padding: 10px;
-  padding-left: 20px;
 }
 body{
   background-color: #2a2e70;

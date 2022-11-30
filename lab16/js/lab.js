@@ -31,6 +31,9 @@
      success: function(data) {
          // do stuff
          console.log(data);
+         var comictitle = data.title;
+         var comicimage = data.img;
+         var comicalt = data.alt;
      },
      // What we do if the api call fails
      error: function (jqXHR, textStatus, errorThrown) {
@@ -38,3 +41,4 @@
          console.log("Error:", textStatus, errorThrown);
      }
  })
+$.ajax();

@@ -30,11 +30,11 @@
      //   all the action goes in here
      success: function(data) {
          // do stuff
-         console.log(data);
          var comic = JSON.stringify(data);
          var comictitle = data.title;
          var comicimage = data.img;
          var comicalt = data.alt;
+         console.log(comic);
      },
      // What we do if the api call fails
      error: function (jqXHR, textStatus, errorThrown) {

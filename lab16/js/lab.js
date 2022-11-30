@@ -31,7 +31,7 @@
      success: function(data) {
          // do stuff
          console.log(data);
-         JSON.stringify(data)
+         JSON.stringify(data);
          var comictitle = data.title;
          var comicimage = data.img;
          var comicalt = data.alt;

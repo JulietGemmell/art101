@@ -31,9 +31,9 @@
      success: function(data) {
          // do stuff
          var comic = JSON.stringify(data);
-         var comictitle = comic.title;
-         var comicimage = comic.img;
-         var comicalt = comic.alt;
+         var comictitle = data.title;
+         var comicimage = data.img;
+         var comicalt = data.alt;
          console.log(comic);
      },
      // What we do if the api call fails
